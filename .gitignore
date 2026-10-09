@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+
+# Data (regenerate locally)
+data/raw/
+data/*.csv
+*.pkl
+
+# Models
+models/*.pkl
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
